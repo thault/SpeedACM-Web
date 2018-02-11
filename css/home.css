@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  font-family: Verdana;
 }
 
 @media (min-width: 992px) {
@@ -17,7 +18,7 @@ body {
 .business-header {
   height: 50vh;
   min-height: 300px;
-  background: url('http://placehold.it/1920x400') center center no-repeat scroll;
+  background: url("/public/img/banner.png") center center no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -26,4 +27,16 @@ body {
 
 .card {
   height: 100%;
+}
+
+.card-body {
+    background-color: #6c6c6c;
+}
+
+.card p{
+    color: white;
+}
+
+.card h4{
+    color: white;
 }
