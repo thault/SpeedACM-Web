@@ -40,3 +40,9 @@ body {
 .card h4{
     color: white;
 }
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #6c6c6c;
+    border-color: #6c6c6c;
+}
