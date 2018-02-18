@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1000 1000"
+   height="1000"
+   width="1000">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="layerBackground">
+      <rect
+         style="fill:#6c6c6c;fill-opacity:1;stroke:none"
+         id="GrayBackground"
+         width="1000"
+         height="1000"
+         x="0"
+         y="0" />
+    </g>
+    <g
+       id="layerOuter">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 150,500 500,150 850,500 500,850 Z"
+         id="OuterDiamond" />
+      <circle
+         r="204"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="OuterCircle"
+         cx="500"
+         cy="500" />
+    </g>
+    <g
+       transform="translate(365,350) scale(0.9)"
+       id="layerCupola">
+      <g
+         id="groupCupolaUpper">
+        <path
+           id="LowerCrossbar"
+           d="M 71,135 93,135 C 97,117 203,117 207,135 L 229,135 C 229,117 189,108 150,108 111,108 71,117 71,135"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           id="OuterArch"
+           d="M 83,185 93,185 93,130 C 90,80 110,53 150,53 190,53 210,80 207,130 L 207,185 217,185 217,120 C 220,70 190,43 150,43 110,43 80,70 83,120 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           id="InnerUprightRight"
+           d="M 178,185 173,185 173,96 C 174,87 162,57 152,52 L 159,53 C 168,58 179,88 178,97 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           id="InnerUprightLeft"
+           d="M 122,185 127,185 127,96 C 126,87 138,57 148,52 L 141,53 C 132,58 121,88 122,97 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           id="UpperCrossbar"
+           d="M 93,108 93,102 C 130,92 170,92 207,102 L 207,108 C 170,98 130,98 93,108"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           id="TopPoint"
+           d="M 143,50 157,50 157,28 162,28 162,14 138,14 138,28 143,28 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           id="BottomRect"
+           d="M 60,184 60,194 240,194 240,184 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <path
+         id="RooflineLower"
+         d="M 0,350 150,287 300,350 272,350 150,300 28,350 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         id="RooflineUpper"
+         d="M 0,323 0,344 150,281 300,344 300,323 150,260 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         id="CupolaBase"
+         d="M 65,200 65,290 150,254 235,290 235,200 Z M 75,210 75,275.78 150,244 225,275.78 225,210 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>
